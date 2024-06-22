@@ -6,7 +6,7 @@
 ## I'm Ulva Dewiyanti, an aspiring data scientist!!
 - ⚡ Graduated Data Science Student from Data Science Bootcamp in [Rakamin Academy]
 - 😄 Interested in Programming, Math, Data & Anlytics, Machine Learning, Artificial Intelligence
-- 🔭 Currently work as a Data Engineer at Pintarnya
+- 🔭 Currently work as a Data Engineer at Pintarnya[https://pintarnya.com/]
 - 🌱 I’m currently sharing a little bit of my knowledge to the world through my github
 
 
